@@ -4,4 +4,4 @@ Desde que en *Matrix* hubo un bug , la escuela se encuentra asediada por un viru
 
 En nueva aventura **Larry** se enterara de nuevos detalles sobre la nueva *feature*
 
-Como el malvado hacker **Balmermort** le metio un troyano ( de ahi su cicactriz en su propio codigo podria esconderse malware
+Como el malvado hacker **Balmermort** le metio un troyano ( de ahi su cicactriz  su propio codigo podria contener malware
